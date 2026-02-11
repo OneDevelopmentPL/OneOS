@@ -50,7 +50,7 @@ Klikając „Zasilanie” w menu start możesz:
 - 🔁 Uruchomić ponownie komputer
 - ⏻ Wyłączyć system
 
-## 🔗 Strona projektu
+## 🔗 Strona projektu (nieaktualne)
 
 👉 [serowastrona.pl.tl/OneOS.htm](https://serowastrona.pl.tl/OneOS.htm)
 
