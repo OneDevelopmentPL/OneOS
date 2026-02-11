@@ -1,18 +1,20 @@
 
 # 🖥️ OneOS
 
+# Soon it will be open-source!
+
 **OneOS** to lekki system operacyjny tworzony w języku **C++ i C#**, który oferuje podstawowe funkcje GUI, terminal, oraz aplikacje systemowe. Obecna wersja: **1.8.5**
 
 ## 🚀 Funkcje
 
-- 🖥️ **GUI** uruchamiane komendą `GUI`
+- 🖥️ **GUI** uruchamiane komendą `gui`
 - 🧠 **Informacje o systemie**
 - 📈 **Licznik FPS**
 - 🔌 **Opcje zasilania**
 - 💻 **Terminal** *(jeszcze nie działa)*
 - 📋 Pasek zadań z godziną i przyciskiem start
 - 🖱️ Obsługa myszy
-- 🧑‍💻 Komendy systemowe: `HELP`, `FORMAT`, `GUI`, `SPACE` i inne
+- 🧑‍💻 Komendy systemowe: `help`, `format`, `gui`, `space` i inne
 - 🔧 Tryb konsolowy z autoinstalacją
 
 ## 🛠️ Jak używać?
